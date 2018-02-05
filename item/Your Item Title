@@ -1,0 +1,8 @@
+Your Item Title:
+  description: "Example Description"
+  link: http://example.com
+  type: code
+  datasetsUsed:
+    - Sample Dataset
+  externalDatasetUsed: "SMDA  Sample Dataset"
+  contributorGithubHandle: dimension004
